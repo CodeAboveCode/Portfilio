@@ -5,6 +5,7 @@ import Aboutme from "./Aboutme";
 import Resume from "./Resume";
 import Contact from "./Contact";
 import Projcets from './Projects';
+import Experience from './Experience';
 
 const Main = () => {
   return (
@@ -14,6 +15,7 @@ const Main = () => {
       <Route path="/Projects" component={Projcets} />
       <Route path="/Aboutme" component={Aboutme} />
       <Route path="/Contact" component={Contact} />
+      <Route path="/Help" component={Experience} />
     </Switch>
   );
 };

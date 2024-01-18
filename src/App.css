@@ -2,13 +2,13 @@
   background: #de6161; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #2657eb,
-    #de6161
+    #323337,
+    #857272
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #2657eb,
-    #de6161
+    #0e1425,
+    #988282
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   text-align: center;
   position: fixed;
@@ -20,13 +20,13 @@
   background: #de6161; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #2657eb,
-    #de6161
+    #340739,
+    #837b7b
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #2657eb,
-    #de6161
+    #2c2e32,
+    #033d2a
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
@@ -44,7 +44,7 @@
 .profile-img-border img {
   width: 100%;
   height: auto;
-  margin-top: -25px;
+  /*margin-top: -25px;*/
 }
 
 .banner-text {

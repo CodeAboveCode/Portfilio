@@ -10,16 +10,16 @@ class Homepage extends Component {
             <div className="profile-img-border">
               <img
                 className="profile-img"
-                src="images/DSC_5211-00.jpg"
+                src="images/Egor.png"
                 alt="Ismail"
               />
             </div>
             <div className="banner-text">
-              <h1>Asp .Net Full Stack Developer</h1>
+              <h1>Full Stack + Blockchain + AI Developer</h1>
               <hr />
               <p>
-                HTML | CSS | BOOTSTRAP | PHP | MYSQL | C# | ASP .NET CORE | SQL
-                SERVER
+                HTML | CSS | Tailwind | MaterialUI | React | Next | Astro | Ethereum
+                Blockchain
               </p>
               <div className="social-links">
                 {/* LinkedIn */}

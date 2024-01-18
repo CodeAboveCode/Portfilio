@@ -12,27 +12,27 @@ class Resume extends Component {
           <Cell col={4}>
             <div style={{ textAlign: "center" }}>
               <img
-                src="images/ismail.jpg"
+                src="images/Egor.png"
                 alt="avatar"
                 style={{ height: "250px" }}
               />
             </div>
 
-            <h2 style={{ paddingTop: "1em" }}>Ismael Miah</h2>
-            <h4 style={{ color: "grey" }}>Asp .Net Developer</h4>
+            <h2 style={{ paddingTop: "1em" }}>Egor Masiutkin</h2>
+            <h4 style={{ color: "grey" }}>Fullstack Developer</h4>
             <hr style={{ borderTop: "2px solid #833fb2", width: "50%" }} />
             <p style={{ textAlign: "justify" }}>
-              This is Ismael Miah. I’m an enthusiastic, responsible, self-motivated and hard-working person.
+              This is Egor. I’m an enthusiastic, responsible, self-motivated and hard-working person.
               I’m able to work well under pressure and adhere to strict deadlines.
               Being worked for different projects helped me to adapt to the changes quickly and made me a mature team worker.
             </p>
             <hr style={{ borderTop: "2px solid #833fb2", width: "50%" }} />
             <h5>Address</h5>
-            <p>Raipura-1630, Narsingdi, Dhaka</p>
+            <p>36 Lower Beaumont Drive, Cork, Ireland</p>
             <h5>Phone</h5>
-            <p>(+880) 1642259188</p>
+            <p>(+353) 87 249 2477</p>
             <h5>Email</h5>
-            <p>ismaelmiah.swe@gmail.com</p>
+            <p>Egor.mo328@outlook.com</p>
             <h5>Web</h5>
             <a
               target="_blank"
